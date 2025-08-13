@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thomas-Vianna&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Vianna&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThomasVianna&show_icons=true&theme=dark)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasVianna&layout=compact&theme=dark)
 
 ---
 
