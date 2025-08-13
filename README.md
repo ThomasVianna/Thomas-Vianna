@@ -18,6 +18,4 @@
 
 ---
 
-## Um pouco
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50%">
 
