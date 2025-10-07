@@ -7,8 +7,7 @@ Sou um desenvolvedor em ascensão, cursando **Análise e Desenvolvimento de Sist
 
 ## Competências Técnicas  
 - **Backend**: C# | .NET Core | ASP.NET | APIs RESTful  
-- **Frontend (em aprendizado)**: HTML | CSS | JavaScript | [ex.: React ou Angular, se aplicável]  
-- **Arquitetura**: Clean Architecture | Padrões SOLID | Iniciando em DDD  
+- **Frontend**: HTML | CSS | JavaScript | React | Angular  
 - **Banco de Dados**: SQL Server | Entity Framework | Queries otimizadas  
 - **Cloud & DevOps**: Azure (básico) | Docker | Git | CI/CD (em aprendizado)  
 - **Princípios**: Clean Code | Testes Unitários | Boas Práticas  
