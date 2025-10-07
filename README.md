@@ -35,15 +35,15 @@ Sou um desenvolvedor em ascensão, cursando **Análise e Desenvolvimento de Sist
 ---
 
 ## Projetos de Impacto  
-- **[Nome do Projeto 1]**  
-  Descrição: [Ex.: API para gerenciar tarefas, desenvolvida durante o curso de ADS, com autenticação e integração com banco].  
+- **[sistema-eventos]**  
+  Descrição: Sistema web simples para cadastro e visualização de eventos.  
   Tech: [C#, .NET Core, SQL Server].  
-  [Link para o repositório ou demo]  
+ <a href="https://github.com/ThomasVianna/sistema-eventos.git">
 
-- **[Nome do Projeto 2]**  
-  Descrição: [Ex.: Sistema de cadastro com frontend em HTML/CSS, criado como parte do estágio].  
-  Tech: [C#, ASP.NET, JavaScript].  
-  [Link para o repositório ou demo]  
+- **[sitema-bancario]**  
+  Descrição: API desenvolvida em C# (.NET) que simula as operações básicas de um banco digital. Permite consultar, adicionar e atualizar informações financeiras de clientes, incluindo saldo, crédito disponível e movimentações (depósitos, saques e transferências).  
+  Tech: [C#, ASP.NET].  
+ <a href="https://github.com/ThomasVianna/Sistema-Banc-rio-com-API-em-C-.git">
 
 *(Preencha com projetos reais do seu curso ou estágio para destacar suas conquistas.)*
 
