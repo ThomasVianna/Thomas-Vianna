@@ -58,9 +58,10 @@ Sistema web para cadastro e visualização de eventos. Interface direta, funcion
 ### [Sistema Bancário]  
 API robusta que simula operações bancárias digitais: saldo, crédito, depósitos, saques e transferências.  
 **Tecnologias:** C# | ASP.NET | SQL Server  
-<img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github" alt="Repositório" />
+<a href="https://github.com/ThomasVianna/Sistema-Banc-rio-com-API-em-C-" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório" />
+</a>
 
-> ⚔️ *Dica de guerra:* Adicione mais projetos reais do curso ou estágio com links e descrições claras. Mostre o que você sabe fazer.
 
 ---
 
