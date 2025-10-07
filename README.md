@@ -1,16 +1,17 @@
 # Thomas Vianna  
-**Desenvolvedor C# / .NET | Especialista em Arquitetura e Soluções Escaláveis**  
+**Estagiário | Futuro Fullstack Developer | C# / .NET Enthusiast**  
 
-Sou um desenvolvedor movido a desafios, com foco em construir sistemas **robustos**, **performáticos** e **bem arquitetados**. Domino **C#**, **.NET** e boas práticas de desenvolvimento, sempre buscando soluções que combinam **eficiência** e **manutenibilidade**. Minha missão é entregar código que resolve problemas e suporta crescimento.  
+Sou um desenvolvedor em ascensão, cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focado em me tornar um **Fullstack Developer**. Domino **C#** e **.NET**, com paixão por criar sistemas **robustos**, **escaláveis** e que resolvem problemas reais. Como estagiário, estou lapidando minhas habilidades enquanto entrego código de qualidade, sempre buscando aprender e evoluir.  
 
 ---
 
 ## Competências Técnicas  
 - **Backend**: C# | .NET Core | ASP.NET | APIs RESTful  
-- **Arquitetura**: Clean Architecture | DDD | Microservices  
-- **Banco de Dados**: SQL Server | Entity Framework | Otimização de Queries  
-- **Cloud & DevOps**: Azure | Docker | CI/CD | Git  
-- **Princípios**: Clean Code | SOLID | Testes Automatizados  
+- **Frontend (em aprendizado)**: HTML | CSS | JavaScript | [ex.: React ou Angular, se aplicável]  
+- **Arquitetura**: Clean Architecture | Padrões SOLID | Iniciando em DDD  
+- **Banco de Dados**: SQL Server | Entity Framework | Queries otimizadas  
+- **Cloud & DevOps**: Azure (básico) | Docker | Git | CI/CD (em aprendizado)  
+- **Princípios**: Clean Code | Testes Unitários | Boas Práticas  
 
 ---
 
@@ -36,14 +37,16 @@ Sou um desenvolvedor movido a desafios, com foco em construir sistemas **robusto
 
 ## Projetos de Impacto  
 - **[Nome do Projeto 1]**  
-  Descrição: [Ex.: API de alta performance para gestão de usuários, com autenticação JWT e integração com Azure].  
-  Tech: [C#, .NET Core, SQL Server, Docker].  
+  Descrição: [Ex.: API para gerenciar tarefas, desenvolvida durante o curso de ADS, com autenticação e integração com banco].  
+  Tech: [C#, .NET Core, SQL Server].  
   [Link para o repositório ou demo]  
 
 - **[Nome do Projeto 2]**  
-  Descrição: [Ex.: Sistema de microservices para processamento de dados em tempo real].  
-  Tech: [C#, .NET, RabbitMQ, Azure].  
+  Descrição: [Ex.: Sistema de cadastro com frontend em HTML/CSS, criado como parte do estágio].  
+  Tech: [C#, ASP.NET, JavaScript].  
   [Link para o repositório ou demo]  
+
+*(Preencha com projetos reais do seu curso ou estágio para destacar suas conquistas.)*
 
 ---
 
@@ -60,8 +63,10 @@ Sou um desenvolvedor movido a desafios, com foco em construir sistemas **robusto
 ---
 
 ## Sobre Mim  
-- **Foco Atual**: Dominar **microservices** e arquiteturas **cloud-native**.  
-- **Estudando**: [Ex.: Kubernetes, gRPC, ou outra tecnologia relevante].  
-- **Fora do Código**: [Ex.: Treino pesado, corridas, ou algo que mostre sua energia].  
+- **Formação**: Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
+- **Foco Atual**: Dominar o desenvolvimento **Fullstack**, com ênfase em **C#/.NET** para backend e aprendendo tecnologias frontend.  
+- **Carreira**: Estagiário, aplicando conhecimentos em projetos reais e absorvendo experiência prática.  
+- **Estudando**: [Ex.: JavaScript avançado, React, ou outra tecnologia que você está explorando].  
+- **Fora do Código**: [Ex.: Treino na academia, corridas ou algo que mostre sua energia].  
 
-**Pronto para um desafio?** Me chama no LinkedIn ou no GitHub para trocarmos ideias ou trabalharmos juntos.  
+**Pronto para o próximo nível?** Me chama no LinkedIn ou GitHub para trocarmos ideias ou colaborarmos em projetos!  
