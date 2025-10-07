@@ -33,10 +33,17 @@ Projetos de Impacto
 Descrição: Um sistema web para cadastro e visualização de eventos, permitindo gerenciar informações de forma simples e intuitiva.
 Tecnologias: C# | .NET Core | SQL Server
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github" alt="Repositório" />
+
+
+
+
 [Sistema Bancário]
 Descrição: API desenvolvida em C# com .NET que simula operações de um banco digital, incluindo consulta, adição e atualização de informações financeiras (saldo, crédito, depósitos, saques e transferências).
 Tecnologias: C# | ASP.NET | SQL Server
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github" alt="Repositório" />
+
+
+
 
 (Dica: Adicione mais projetos reais do seu curso ou estágio, com descrições claras e tecnologias usadas, para destacar suas conquistas.)
 
