@@ -49,8 +49,9 @@ Clean Code | Testes Unitários | SOLID | Boas Práticas
 ### [Sistema de Eventos]  
 Sistema web para cadastro e visualização de eventos. Interface direta, funcionalidade objetiva.  
 **Tecnologias:** C# | .NET Core | SQL Server  
-<img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github" alt="Repositório" />
-<a href= "https://github.com/ThomasVianna/sistema-eventos.git">
+<a href="https://github.com/ThomasVianna/sistema-eventos" target="_blank">
+  <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório" />
+</a>
 
 ---
 
